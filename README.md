@@ -6,3 +6,5 @@ Now, with edits from local computer
 It seems that HTTPS credential-caching works!
 
 Useful resource: https://happygitwithr.com/
+
+Now, with edits from RStudio
