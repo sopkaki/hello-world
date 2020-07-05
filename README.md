@@ -7,4 +7,4 @@ It seems that HTTPS credential-caching works!
 
 Useful resource: https://happygitwithr.com/
 
-Now, with edits from RStudio.
+Now, with edits from RStudio
